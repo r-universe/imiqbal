@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ImCluster"]
+	path = ImCluster
+	url = https://github.com/cran/ImCluster
 [submodule "ImFoR"]
 	path = ImFoR
 	url = https://github.com/cran/ImFoR
