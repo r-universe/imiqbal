@@ -14,3 +14,6 @@
 [submodule "ImNN"]
 	path = ImNN
 	url = https://github.com/cran/ImNN
+[submodule "ImVol"]
+	path = ImVol
+	url = https://github.com/cran/ImVol
