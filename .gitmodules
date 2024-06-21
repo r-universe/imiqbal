@@ -17,3 +17,6 @@
 [submodule "ImVol"]
 	path = ImVol
 	url = https://github.com/cran/ImVol
+[submodule "Imneuron"]
+	path = Imneuron
+	url = https://github.com/cran/Imneuron
