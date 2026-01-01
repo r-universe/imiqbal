@@ -8,9 +8,6 @@
 [submodule "ImFoR"]
 	path = ImFoR
 	url = https://github.com/cran/ImFoR
-[submodule "ImHD"]
-	path = ImHD
-	url = https://github.com/cran/ImHD
 [submodule "ImNN"]
 	path = ImNN
 	url = https://github.com/cran/ImNN
